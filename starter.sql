@@ -1,4 +1,3 @@
-Assume 40 marks is the pass mark
 SET SERVEROUTPUT ON
 DECLARE
     marks NUMBER:=65;
